@@ -18,7 +18,6 @@ module.exports = {
         '@scandipwa/scandipwa-guidelines/use-namespace': 'off',
         '@typescript-eslint/no-unused-vars': 'off',
         'max-lines': 'off',
-        'max-len': 'off'
-
+        'max-len': 'off',
     },
 };
